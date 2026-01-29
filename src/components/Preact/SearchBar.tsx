@@ -6,7 +6,7 @@ import { useIconCode } from '../../hooks/useIconCode';
 
 
 const SearchBar = () => {
-    const [query, setQuery] = useState<string>("mangalore")
+    const [query, setQuery] = useState<string>("CHITVEL")
     const SearchRef = useRef<HTMLInputElement>(null)
 
     const HandleSearch = async (e?: Event) => {
