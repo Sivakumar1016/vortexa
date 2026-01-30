@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/549e2ddd-1d58-4f2a-89b3-b5e066bb9f0d/deploy-status)](https://app.netlify.com/sites/vortexa/deploys)
+[![Vercel Status](https://vercel.com/whitesnake1004s-projects/vortexa)](https://vortexa-tau.vercel.app/)
 ##### Created : 26/08/2023
 
 # Vortexa - Weather App
@@ -6,7 +6,7 @@ Explore comprehensive weather insights and forecasts with Vortexa. Stay informed
 
 ### Live Demo
 
-Check out a live demo of VORTEXA at https://vortexa.netlify.app/.
+Check out a live demo of VORTEXA at https://vortexa-tau.vercel.app/.
 
 ### Preview
 ![Portfolio Preview](public/Mockup_Preview.png)
@@ -57,9 +57,3 @@ Check out a live demo of VORTEXA at https://vortexa.netlify.app/.
         src="https://raw.githubusercontent.com/Sivakumar1016/Sivakumar.github.io/main/icons/database.svg" 
       />
 </div>
-
-
-## This is the upgraded version of CliMate weather app
-Old version Demo: https://klimate.netlify.app/
-
-Old version Github: https://github.com/Sivakumar1016/CliMate

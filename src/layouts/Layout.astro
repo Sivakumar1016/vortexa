@@ -36,7 +36,7 @@ const { title } = Astro.props;
 
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="apple-touch-icon" href="/icons/180.png" />
-		<link rel="canonical" href="https://vortexa.netlify.app/" />
+		<link rel="canonical" href="https://vortexa-tau.vercel.app/" />
 		<link rel="manifest" href="/manifest.json" />
 
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -48,32 +48,14 @@ const { title } = Astro.props;
 		/>
 	</head>
 	<body>
-		<!-- Initial Page Loader -->
 		<Loader client:load />
-
 		<Header />
 		<slot />
-
-		<!-- React-Hot-Toast Container -->
 		<Toaster client:load />
-		<!-- <Toaster
-			position="top-center"
-			containerStyle={{
-				top: 65,
-			}}
-			client:load
-		/> -->
 	</body>
 </html>
 
 <style is:global>
-	/* Debuging */
-	/* * {
-		background: #000;
-		border: 1px solid red;
-		outline: 1px solid green;
-	} */
-	/* Debuging */
 
 	:root {
 		--baseClr: #5488ee;
