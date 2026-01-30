@@ -1,4 +1,4 @@
-[![Vercel Status](https://therealsujitk-vercel-badge.vercel.app/?app=vortexa&style=for-the-badge)](https://vortexa-tau.vercel.app/)
+[![Vercel Deployment](https://img.shields.io/website?url=https%3A%2F%2Fvortexa-tau.vercel.app&label=vercel&logo=vercel&style=for-the-badge)](https://vortexa-tau.vercel.app/)
 ##### Created : 26/08/2023
 
 # Vortexa - Weather App
